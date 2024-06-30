@@ -8,10 +8,10 @@ Welcome to the Mortgage Risk Assessment Project! This project aims to analyze an
 
 ## Team Members
 
-- **@dogagzm**
-- **@krishnakishore163**
-- **@movcha**
-- **@shiyamhoda**
+- **dogagzm**
+- **krishnakishore163**
+- **movcha**
+- **shiyamhoda**
 
 ## Project Structure
 
@@ -67,6 +67,16 @@ Deploying models for real-time risk assessment.
 ### 2024-06-30
 - finalizing the project, creating a readme file and recording a video
 - recording a video
+
+- Sources and references utilized for this project can be accessed in:
+  - [Data folder](./data/)
+  - [Source Code and Models](./src/)
+
+ - **Links to individual videos**
+- **dogagzm**
+- **krishnakishore163**
+- **movcha**
+- **shiyamhoda**
 
 <details>
 <summary>Original Team Project Requirements</summary>
