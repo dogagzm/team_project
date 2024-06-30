@@ -73,7 +73,7 @@ Future work may include:
   - [Source Code and Models](./src/)
 
 
-   **Links to individual videos**
+ ## Links to individual videos
 
 - **dogagzm**
 - **krishnakishore163**
