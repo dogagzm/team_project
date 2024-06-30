@@ -27,25 +27,28 @@ Datasets were chosen based on the following criteria:
 - **Accuracy**: Sourced data from reliable providers.
 - **Format**: Preferred formats were CSV for compatibility with statistical software.
 
-## Project Approach
+## Project Structure
 
-### Linear Regression
+The project is divided into several parts:
+1. **Linear Regression Analysis**: Predicting loan amounts based on features such as annual income, employment length, interest rate, debt-to-income ratio, and grade category.
+2. **Logistic Regression Analysis**: Classifying loans as 'Good' or 'Bad' based on the same set of features.
+3. **Random Forest Classifier**: Improving loan condition classification using a Random Forest classifier.
 
 **Design:**
 - **Features:** `annual_inc`, `emp_length_int`, `interest_rate`, `dti`, `grade_cat`
 - **Target:** `loan_amount`
 
-
-Findings: Impact of Borrower Characteristics on Mortgage Risk
+**Findings:**
+Impact of Borrower Characteristics on Mortgage Risk
 Regression Analysis
-Linear Regression: Identified key borrower characteristics such as annual income, employment length, interest rate, debt-to-income ratio, and credit grade significantly influencing loan amounts.
-Logistic Regression: Highlighted significant predictors of loan condition, confirming the importance of borrower characteristics in determining mortgage risks.
-Random Forest Classifier: Provided robust classification of loan conditions, reinforcing findings from regression analyses.
+- **Linear Regression**: Identified key borrower characteristics such as annual income, employment length, interest rate, debt-to-income ratio, and credit grade significantly influencing loan amounts.
+- **Logistic Regression**: Highlighted significant predictors of loan condition, confirming the importance of borrower characteristics in determining mortgage risks.
+- **Random Forest Classifier**: Provided robust classification of loan conditions, reinforcing findings from regression analyses.
 
-Conclusion
+**Conclusion:**
 This project provides comprehensive insights into how borrower characteristics influence mortgage risks. By analyzing diverse datasets and employing robust methodologies, the findings offer valuable guidance for policymakers, lenders, and borrowers, aiding in informed decision-making and risk management.
 
-Next Steps
+**Next Steps:**
 Future work may include:
 
 Incorporating additional economic indicators.
