@@ -76,6 +76,12 @@ Deploying models for real-time risk assessment.
 - From the options proposed by each team member, one dataset was selected
 - Cleaned data by removing irrelevant column attributes and sampling data on certain dates to reduce the overall file size so that it can be uploaded to GitHub
 
+...
+
+### 2024-06-30
+- finalizing the project, creating a readme file and recording a video
+- recording a video
+
 <details>
 <summary>Original Team Project Requirements</summary>
 
