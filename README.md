@@ -37,9 +37,9 @@ This project provides comprehensive insights into how borrower characteristics i
 **Next Steps:**
 Future work may include:
 
-Incorporating additional economic indicators.
-Enhancing model performance with advanced techniques.
-Deploying models for real-time risk assessment.
+- Incorporating additional economic indicators.
+- Enhancing model performance with advanced techniques.
+- Deploying models for real-time risk assessment.
 
 ## Progress Report
 
