@@ -8,10 +8,10 @@ Welcome to the Mortgage Risk Assessment Project! This project aims to analyze an
 
 ## Team Members
 
-- **dogagzm**
-- **krishnakishore163**
-- **movcha**
-- **shiyamhoda**
+- **@dogagzm**
+- **@krishnakishore163**
+- **@movcha**
+- **@shiyamhoda**
 
 ## Project Structure
 
