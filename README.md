@@ -72,7 +72,8 @@ Deploying models for real-time risk assessment.
   - [Data folder](./data/)
   - [Source Code and Models](./src/)
 
- - **Links to individual videos**
+   **Links to individual videos**
+
 - **dogagzm**
 - **krishnakishore163**
 - **movcha**
