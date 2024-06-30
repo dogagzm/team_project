@@ -20,20 +20,6 @@ The project is divided into several parts:
 2. **Logistic Regression Analysis**: Classifying loans as 'Good' or 'Bad' based on the same set of features.
 3. **Random Forest Classifier**: Improving loan condition classification using a Random Forest classifier.
 
-Datasets were chosen based on the following criteria:
-
-- **Relevance**: Included variables related to borrower characteristics and loan conditions.
-- **Completeness**: Ensured minimal missing values and comprehensive coverage.
-- **Accuracy**: Sourced data from reliable providers.
-- **Format**: Preferred formats were CSV for compatibility with statistical software.
-
-## Project Structure
-
-The project is divided into several parts:
-1. **Linear Regression Analysis**: Predicting loan amounts based on features such as annual income, employment length, interest rate, debt-to-income ratio, and grade category.
-2. **Logistic Regression Analysis**: Classifying loans as 'Good' or 'Bad' based on the same set of features.
-3. **Random Forest Classifier**: Improving loan condition classification using a Random Forest classifier.
-
 **Design:**
 - **Features:** `annual_inc`, `emp_length_int`, `interest_rate`, `dti`, `grade_cat`
 - **Target:** `loan_amount`
