@@ -8,10 +8,10 @@ Welcome to the Mortgage Risk Assessment Project! This project aims to analyze an
 
 ## Team Members
 
-- **dogagzm**
-- **krishnakishore163**
-- **movcha**
-- **shiyamhoda**
+- **Doga Gizem (dogagzm)**
+- **Krishna Kishore (krishnakishore163)**
+- **Oleg Movchaniuk (movcha)**
+- **Shiyam Hoda (shiyamhoda)**
 
 ## Project Structure
 
@@ -62,11 +62,20 @@ Future work may include:
 - From the options proposed by each team member, one dataset was selected
 - Cleaned data by removing irrelevant column attributes and sampling data on certain dates to reduce the overall file size so that it can be uploaded to GitHub
 
-...
+### 2024-06-20 - 2024-06-30
+- Main work on the project algorithm
+- Linear Regression Analysis
+- Logistic Regression Analysis
+- Random Forest Classifier
 
 ### 2024-06-30
-- finalizing the project, creating a readme file and recording a video
-- recording a video
+- Finalizing the project
+- Creating a README file
+- Recording a video
+
+### 2024-07-07
+- Minor changes README file
+- Adding video links
 
 - Sources and references utilized for this project can be accessed in:
   - [Data folder](./data/)
@@ -75,10 +84,9 @@ Future work may include:
 
  ## Links to individual videos
 
-- **dogagzm**
-- **krishnakishore163**
-- **movcha**
-- **shiyamhoda**
+- [Doga Gizem (dogagzy)](https://drive.google.com/drive/folders/1FTX5VDLg291xYiZbtpJVIrgAJx0B96Xx)
+- [Oleg Movchaniuk (movcha)](https://drive.google.com/file/d/1DT6D9mUT1SC1jm6RPYv5Sqi7qwigCxfm)
+
 
 <details>
 <summary>Original Team Project Requirements</summary>
